@@ -17,6 +17,6 @@ Commits (4 pts)
 * Each time you run the program, you should commit first, with a message that reflects what you're looking for. 
 
 # Example
-Call: randomIntAnalyzer(3,4,1000)
-Output: 
+Call: randomIntAnalyzer(3,4,1000)  
+Output:  
 The number 4 showed up 455 times and the number 3 showed up 545 times for an average of 3.455.
