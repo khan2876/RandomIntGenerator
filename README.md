@@ -1,7 +1,7 @@
 # Assignment
 Create a random integer generator.  The method takes two ints: the low value for the random number and the high value for the random number
 
-Create a method that does a rudmentary statistical analysis of the random number generator.  It should make a count of how many times each number comes up (using an array) and calculate the average of all the values generated.  
+Create a method that does a rudmentary statistical analysis of the random number generator.  It should make a count of how many times each number comes up (using an array) and calculate the average of all the values generated.  If a number outside of the desired range is generated, it should print something that describes the failure instead of the stats.
 
 This tool will allow us to get a sense for if the numbers being generated are evenly distributed.  However, we know that the numbers generated aren't truely random (only psuedorandom), and it would probably take a deeper statistical analysis to decide if the random number generate works 'well'.  
 
