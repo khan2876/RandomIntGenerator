@@ -6,11 +6,11 @@ Create a method that does a rudmentary statistical analysis of the random number
 This tool will allow us to get a sense for if the numbers being generated are evenly distributed.  However, we know that the numbers generated aren't truely random (only psuedorandom), and it would probably take a deeper statistical analysis to decide if the random number generate works 'well'.  
 
 # Grading - 9 points total
-randomInt works properly (1 pt)
-randomIntAnalyzer counts values properly (2 pts)
-randomIntAnalyzer averages values properly (1 pt)
-randomIntAnalyzer output shows more thought than the example below (1 pt)
-Commits (4 pts)
+randomInt works properly (1 pt)  
+randomIntAnalyzer counts values properly (2 pts)  
+randomIntAnalyzer averages values properly (1 pt)  
+randomIntAnalyzer output shows more thought than the example below (1 pt)  
+Commits (4 pts)  
 * There should be at least 2 commits per day (probably more)
 * Commit messages should appropriately describe the changes that were made since the last commit.
 * If the commit message gets too long, you probably should have made another commit earlier
